@@ -1,0 +1,8 @@
+Nome: malpensa fiere |via-piazza: piazza fiere |Comune: busto arsizio |va |21052 |Tipologia: hub |
+Nome: ospedale gallarate |via-piazza: via maino, 7 |Comune: 21013 |va |gallarate |Tipologia: ospedale |
+Nome: fastweb mi |via-piazza: piazza olivetti, 1 |Comune: Milano |MI |20139 |Tipologia: azienda |
+Nome: elmec |via-piazza: via pret, 1 |Comune: brunello |va |21020 |Tipologia: azienda |
+Nome: ospedale legnano |via-piazza: via papa giovanni paolo II |Comune: legnano |mi |20025 |Tipologia: ospedale |
+Nome: eolo spa |via-piazza: via gran s. bernardo, 12 |Comune: busto arsizio |va |21052 |Tipologia: azienda |
+Nome: parco trenno |via-piazza: via novara |Comune: milano |mi |20151 |Tipologia: hub |
+Nome: gallarate |via-piazza: via tosi, 1 |Comune: gallarate |VA |21013 |Tipologia: hub |

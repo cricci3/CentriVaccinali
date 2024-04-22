@@ -1,0 +1,1 @@
+Nome: mario |Cognome: geronimo |codice fiscale: mariogeronimo789 |nome vaccino: jj |data di vaccinazione: 3/8/2021 |id vaccinazione: 48237 |

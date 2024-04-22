@@ -1,0 +1,2 @@
+Nome: luigi |Cognome: de marchi |codice fiscale: luigidemarchi123 |nome vaccino: pfizer |data di vaccinazione: 17/7/2021 |id vaccinazione: 48762 |
+Nome: marco |Cognome: bianchi |codice fiscale: marcobianchi3421 |nome vaccino: moderna |data di vaccinazione: 20/5/2021 |id vaccinazione: 35064 |

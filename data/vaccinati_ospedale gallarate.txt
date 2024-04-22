@@ -1,0 +1,2 @@
+Nome: michele |Cognome: ruzzier |codice fiscale: mchrzz7890123456 |nome vaccino: jj |data di vaccinazione: 4/9/2021 |id vaccinazione: 61274 | Eventi avversi |mal di testa: 1 |Note non inserite |febbre: 1 |Note non inserite |dolori muscolari e articolari: 1 |Note non inserite |linfoadenopatia: 1 |Note non inserite |tachicardia: 4 |Note non inserite |crisi ipertensiva: 1 |Note non inserite |altro: 3 |Note: problemi intestinali |
+Nome: valentina |Cognome: colombo |codice fiscale: vlnclm7890123456 |nome vaccino: jj |data di vaccinazione: 4/9/2021 |id vaccinazione: 6516 |

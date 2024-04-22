@@ -1,0 +1,13 @@
+Nome: massimo |Cognome: troisi |mail: massimotroisi |nome utente: msstrs7890123456 |password: AAthr45k|id: 5343 |
+Nome: kevin |Cognome: genoni |mail: kevingenoni |nome utente: kvngnn7890123456 |password: jk87AJll|id: 59800 |
+Nome: paola |Cognome: rondinini |mail: paolarondinini@fastweb.com |nome utente: plrndn7890123456 |password: 12345SS8|id: 52427 |
+Nome: massimo |Cognome: airaghi |mail: massimoairaghi@fastweb.com |nome utente: mssarg7890123456 |password: ZXCVvc89|id: 6163 |
+Nome: tommaso |Cognome: donda |mail: tommasodonda@elmec.it |nome utente: tmmdnd7890123456 |password: klgo93UJ|id: 31333 |
+Nome: mauro |Cognome: zucchi |mail: maurozucchi@elmec.it |nome utente: mrzcch7890123456 |password: KM9684jktmr|id: 60385 |
+Nome: michele |Cognome: ruzzier |mail: micheleruzzier |nome utente: mchrzz7890123456 |password: grfmd87FE|id: 61274 |
+Nome: davide |Cognome: tosi |mail: davidetosi |nome utente: dvdts67890123456 |password: lmrngur63KK|id: 19881 |
+Nome: micaela |Cognome: lanzarotti |mail: micaelalanzarotti@gmail.com |nome utente: mcllnz7890123456 |password: 5768AAAAa|id: 26780 |
+Nome: riccardo |Cognome: luoni |mail: riccardoluoni@eolo.busto.it |nome utente: rccln67890123456 |password: qwerty89LL|id: 16115 |
+Nome: giulia |Cognome: longhi |mail: giulialonghi@eolo.busto.it |nome utente: gllngh7890123456 |password: asdfHJ76|id: 40360 |
+Nome: alice |Cognome: molinari |mail: alicemolinari@outlook.com |nome utente: lcmlnr7890123456 |password: AAffgg00|id: 10068 |
+Nome: fabio |Cognome: ruggiu |mail: fabioruggiu@gmail.com |nome utente: fbrgg67890123456 |password: LOKgjt678|id: 32408 |

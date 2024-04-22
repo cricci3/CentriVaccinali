@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CentriVaccinali versione 1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CentriVaccinali_versione_1_jar</output-path>
+    <root id="archive" name="CentriVaccinali versione 1.jar">
+      <element id="module-output" name="CentriVaccinali versione 1" />
+    </root>
+  </artifact>
+</component>
